@@ -4,6 +4,7 @@
 ### Names:  
 * Rotem Shperling 305699514
 * Eitan Shteinberg 305809535
+* Analytics Vidhya Username - eitansh
 
 ### Files:  
 * Solution.ipynb - The Jupyter solutuion file
