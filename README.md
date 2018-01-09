@@ -10,8 +10,9 @@
 * modified_df.csv - The processed data
 
 ### Folders:  
-* pics - The screenshots
-* data - The submission files of the models
+* Pics - The screenshots
+* data - The raw data from the website
+* submit - The submission files of the models
 
 ### Examined Models & Scores:  
 | Model | Accuracy         
